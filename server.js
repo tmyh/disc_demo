@@ -6,7 +6,7 @@ server.on('request', function(req, res) {
     res.writeHead(200, {'Content-Type' : 'text/plain'});
     res.end();
 });
-server.listen(80);
+server.listen(8080);
 
 
 const Discord = require('discord.js');
