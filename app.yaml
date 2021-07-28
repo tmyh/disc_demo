@@ -1,4 +1,4 @@
 runtime: nodejs12
-
+service: default
 env_variables:
         DISC_TOKEN: ""
